@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Archivo+Black|Archivo:400,500,700&display=swap");
 
+@font-face {
+ font-family: "Archivo";
+ src: url("./fonts/Archivo-Regular.ttf") format("ttf"),
+      url("./fonts/ArchivoBlack-Regular.ttf") format("ttf"),
+      url("./fonts/Archivo-Semibold.ttf") format("ttf"),
+      url("./fonts/Archivo-Medium.ttf") format("ttf"),
+      url("./fonts/Archivo-Bold.ttf") format("ttf");
+}
+
 *{
 	margin: 0;
 	padding: 0;
